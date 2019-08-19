@@ -1,9 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter_trip/model/travel_model.dart';
-import 'package:flutter_trip/model/travel_tab_model.dart';
 import 'package:http/http.dart' as http;
-import 'package:flutter_trip/model/home_model.dart';
 
 const TRAVEL_URL = 'http://www.devio.org/io/flutter_app/json/travel_page.json';
 
@@ -26,7 +24,7 @@ var Params = {
   "contentType": "json"
 };
 
-class TravelTabDao {
+class TravelDao {
   static Future<TravelModel> fetch(
       String url, String groupChannelCode, int pageIndex, int pageSize) async {
     //动态改变json中固定的参数
@@ -41,7 +39,7 @@ class TravelTabDao {
       print('TravelTabModel: ${result}');
       return TravelModel.fromJson(result);
     } else {
-      throw Exception('Failed to load travel_page.json');
+      throw Exception('Failed to load travel');
     }
   }
 }

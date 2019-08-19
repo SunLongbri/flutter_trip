@@ -2,7 +2,6 @@ import 'dart:convert';
 
 import 'package:flutter_trip/model/travel_tab_model.dart';
 import 'package:http/http.dart' as http;
-import 'package:flutter_trip/model/home_model.dart';
 
 const TRAVEL_URL = 'http://www.devio.org/io/flutter_app/json/travel_page.json';
 
