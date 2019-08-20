@@ -1,11 +1,11 @@
 ///旅拍页模型
-class TravelModel {
+class TravelItemModel {
   int totalCount;
   List<TravelItem> resultList;
 
-  TravelModel({this.totalCount, this.resultList});
+  TravelItemModel({this.totalCount, this.resultList});
 
-  TravelModel.fromJson(Map<String, dynamic> json) {
+  TravelItemModel.fromJson(Map<String, dynamic> json) {
     totalCount = json['totalCount'];
     if (json['resultList'] != null) {
       resultList = new List<TravelItem>();
