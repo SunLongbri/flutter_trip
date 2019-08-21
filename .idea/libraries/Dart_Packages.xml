@@ -51,10 +51,17 @@
             </list>
           </value>
         </entry>
+        <entry key="flutter_splash_screen">
+          <value>
+            <list>
+              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_splash_screen-0.1.0/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="flutter_staggered_grid_view">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_staggered_grid_view-0.2.7/lib" />
+              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_staggered_grid_view-0.3.0/lib" />
             </list>
           </value>
         </entry>
@@ -207,7 +214,8 @@
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/collection-1.14.11/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/cupertino_icons-0.1.2/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_page_indicator-0.0.3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_staggered_grid_view-0.2.7/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_splash_screen-0.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_staggered_grid_view-0.3.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_swiper-1.1.6/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.5/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.flutter-io.cn/http-0.12.0+2/lib" />

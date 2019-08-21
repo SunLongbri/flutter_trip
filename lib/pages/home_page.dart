@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_splash_screen/flutter_splash_screen.dart';
 import 'package:flutter_swiper/flutter_swiper.dart';
 import 'package:flutter_trip/dao/home_dao.dart';
 import 'package:flutter_trip/model/common_model.dart';
@@ -35,6 +36,9 @@ class _HomePageState extends State<HomePage> {
   @override
   void initState() {
     _handleRefresh();
+    Future.delayed(Duration(milliseconds: 600), () {
+      FlutterSplashScreen.hide();
+    });
   }
 
   _onScroll(offset) {
