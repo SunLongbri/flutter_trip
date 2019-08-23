@@ -3,6 +3,7 @@ import 'package:flutter_trip/pages/home_page.dart';
 import 'package:flutter_trip/pages/my_page.dart';
 import 'package:flutter_trip/pages/search_page.dart';
 import 'package:flutter_trip/pages/travel_page.dart';
+import 'package:oktoast/oktoast.dart';
 
 class TabNavigator extends StatefulWidget {
   @override
@@ -20,18 +21,20 @@ class _TabNavigatorState extends State<TabNavigator> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: PageView(
-        physics: NeverScrollableScrollPhysics(),
-        controller: _controller,
-        children: <Widget>[
-          HomePage(),
-          SearchPage(
-            hideLeft: true,
+      body: WillPopScope(
+          child: PageView(
+            physics: NeverScrollableScrollPhysics(),
+            controller: _controller,
+            children: <Widget>[
+              HomePage(),
+              SearchPage(
+                hideLeft: true,
+              ),
+              TravelPage(),
+              MyPage(),
+            ],
           ),
-          TravelPage(),
-          MyPage(),
-        ],
-      ),
+          onWillPop: exitApp),
       bottomNavigationBar: BottomNavigationBar(
           currentIndex: _currentIndex,
           onTap: (index) {
@@ -44,7 +47,7 @@ class _TabNavigatorState extends State<TabNavigator> {
           items: [
             _singleItem(Icons.home, '首页', 0),
             _singleItem(Icons.search, '搜索', 1),
-            _singleItem(Icons.camera_alt, '旅拍', 2),
+            _singleItem(Icons.camera, '旅拍', 2),
             _singleItem(Icons.account_circle, '我的', 3),
           ]),
     );
@@ -59,5 +62,33 @@ class _TabNavigatorState extends State<TabNavigator> {
           style: TextStyle(
               color: _currentIndex != index ? _defaultColor : _activeColor),
         ));
+  }
+
+  DateTime _lastPressedAt; //上次点击时间
+  //退出app
+  Future<bool> exitApp() {
+    if (_lastPressedAt == null ||
+        DateTime.now().difference(_lastPressedAt) > Duration(seconds: 2)) {
+      showToast("再按一次退出应用");
+      //两次点击间隔超过2秒则重新计时
+      _lastPressedAt = DateTime.now();
+      return Future.value(false);
+    }
+    return Future.value(true);
+//    return showDialog(
+//        context: context,
+//        builder: (context) => new AlertDialog(
+//              content: new Text("是否退出"),
+//              actions: <Widget>[
+//                new FlatButton(
+//                    onPressed: () => Navigator.of(context).pop(false),
+//                    child: new Text("取消")),
+//                new FlatButton(
+//                    onPressed: () {
+//                      Navigator.of(context).pop(true);
+//                    },
+//                    child: new Text("确定"))
+//              ],
+//            ));
   }
 }

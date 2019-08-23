@@ -40,7 +40,7 @@ android {
         versionName flutterVersionName
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         ndk{
-            abiFilters "arm64-v8a","x86_64","x86" //只打包flutter所支持的架构，flutter没有armeabi、armeabi-v7a架构的so，加x86的原因是为了能够兼容模拟器
+            abiFilters "armeabi-v7a", "arm64-v8a", "x86" //只打包flutter所支持的架构，flutter没有armeabi、armeabi-v7a架构的so，加x86的原因是为了能够兼容模拟器
         }
     }
 
@@ -52,10 +52,15 @@ android {
         }
     }
 
-    packagingOptions{
-        // 确保app与asr_plugin都依赖的libflutter.so merge时不冲突
-        pickFirst 'lib/x86_64/libflutter.so'
+    packagingOptions {
+        pickFirst 'lib/armeabi-v7a/libapp.so'
+        pickFirst 'lib/x86/libapp.so'
+        pickFirst 'lib/x86_64/libapp.so'
+        pickFirst 'lib/arm64-v8a/libapp.so'
+
+        pickFirst 'lib/armeabi-v7a/libflutter.so'
         pickFirst 'lib/x86/libflutter.so'
+        pickFirst 'lib/x86_64/libflutter.so'
         pickFirst 'lib/arm64-v8a/libflutter.so'
     }
 }

@@ -8,18 +8,15 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application>
-        <service
-            android:name="com.baidu.speech.VoiceRecognitionService"
-            android:exported="false" />
-
+        <service android:name="com.baidu.speech.VoiceRecognitionService" android:exported="false" />
         <meta-data
             android:name="com.baidu.speech.APP_ID"
-            android:value="16122399" />
+            android:value="16986788"/>
         <meta-data
             android:name="com.baidu.speech.API_KEY"
-            android:value="M71daCPLk074WyHQGC0pL2G0" />
+            android:value="gQkttRnAsF1fUfW41OeRAPp7"/>
         <meta-data
             android:name="com.baidu.speech.SECRET_KEY"
-            android:value="KajKRvZCOmFAQCtgw8QqAAXb8a9FRwm8" />
+            android:value="8MAFrbXzu76hAcYn14IfwtCVZQUMq0mT"/>
     </application>
 </manifest>
