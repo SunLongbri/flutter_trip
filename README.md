@@ -5,19 +5,19 @@
 ## iOS端页面
 
 ### 首页页面
-<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_home.jpeg">
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_home.jpeg" width = 200 height = 400>
   
 ### 搜索页面
-<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_search.jpeg.jpeg">
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_search.jpeg.jpeg" width = 200 height = 400>
   
 ### 语音识别页面
-<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_speak.jpeg">
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_speak.jpeg" width = 200 height = 400>
   
 ### 旅拍页面
-<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_camer.jpeg">
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_camer.jpeg" width = 200 height = 400>
   
 ### 我的页面
-<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_me.jpeg">
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_me.jpeg" width = 200 height = 400>
   
 
 
