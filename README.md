@@ -8,7 +8,7 @@
 <image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_home.jpeg" width = 200 height = 350>
   
 ### 搜索页面
-<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_search.jpeg.jpeg" width = 200 height = 350>
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_search.jpeg" width = 200 height = 350>
   
 ### 语音识别页面
 <image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_speak.jpeg" width = 200 height = 350>
@@ -19,6 +19,9 @@
 ### 我的页面
 <image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_me.jpeg" width = 200 height = 350>
   
+### 本机iOS下载的二维码，还未上传到AppStore
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/qr_code.jpeg" width = 200 height = 350>
+  
 ## Android端页面
 
 
@@ -26,7 +29,7 @@
 <image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_home.jpeg" width = 200 height = 350>
   
 ### 搜索页面
-<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_search.jpeg.jpeg" width = 200 height = 350>
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_search.jpeg" width = 200 height = 350>
   
 ### 语音识别页面
 <image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_speak.jpeg" width = 200 height = 350>
@@ -36,6 +39,9 @@
   
 ### 我的页面
 <image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_me.jpeg" width = 200 height = 350>
+  
+### Android端下载的二维码
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_code.jpeg" width = 200 height = 350>
   
 
 
