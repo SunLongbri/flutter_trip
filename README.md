@@ -19,6 +19,24 @@
 ### 我的页面
 <image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_me.jpeg" width = 200 height = 350>
   
+## Android端页面
+
+
+### 首页页面
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_home.jpeg" width = 200 height = 350>
+  
+### 搜索页面
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_search.jpeg.jpeg" width = 200 height = 350>
+  
+### 语音识别页面
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_speak.jpeg" width = 200 height = 350>
+  
+### 旅拍页面
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_camer.jpeg" width = 200 height = 350>
+  
+### 我的页面
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_me.jpeg" width = 200 height = 350>
+  
 
 
 This project is a starting point for a Flutter application.
