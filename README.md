@@ -20,7 +20,7 @@
 <image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_me.jpeg" width = 200 height = 350>
   
 ### 本机iOS下载的二维码，还未上传到AppStore
-<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_qrcode.jpeg" width = 200 height = 350>
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_qrcode.png" width = 200 height = 200>
   
 ## Android端页面
 
@@ -41,7 +41,7 @@
 <image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_me.jpeg" width = 200 height = 350>
   
 ### Android端下载的二维码
-<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_qrcode.jpeg" width = 200 height = 350>
+<image src = "https://github.com/SunLongbri/flutter_trip/blob/master/Android_pages/android_qrcode.png" width = 200 height = 200>
   
 
 
