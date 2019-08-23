@@ -4,6 +4,9 @@
 
 ## iOS端页面
 
+### iOS端界面预览
+<image src = "https://s33.aconvert.com/convert/p3r68-cdx67/loll9-q4b1t.gif" width = 200 height = 350>
+
 ### 首页页面
 <image src = "https://github.com/SunLongbri/flutter_trip/blob/master/iOS_pages/ios_home.jpeg" width = 200 height = 350>
   
