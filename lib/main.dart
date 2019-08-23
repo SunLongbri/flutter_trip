@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return OKToast(
       position: ToastPosition.bottom,
       child: MaterialApp(
-        title: 'Flutter Demo',
+        title: 'Trip For SL',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
