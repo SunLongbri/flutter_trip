@@ -31,12 +31,19 @@ class _TravelTabPageState extends State<TravelTabPage>
   void initState() {
     print('travelUrl:${widget.travelUrl}');
     _loadData();
-    _scrollController.addListener((){
-      if(_scrollController.position.pixels==_scrollController.position.maxScrollExtent){
+    _scrollController.addListener(() {
+      if (_scrollController.position.pixels ==
+          _scrollController.position.maxScrollExtent) {
         _loadData(loadMore: false);
       }
     });
     super.initState();
+  }
+
+  @override
+  void dispose() {
+    _scrollController.dispose();
+    super.dispose();
   }
 
   @override
@@ -63,9 +70,9 @@ class _TravelTabPageState extends State<TravelTabPage>
   }
 
   void _loadData({loadMore = false}) {
-    if(loadMore){
+    if (loadMore) {
       pageIndex++;
-    }else{
+    } else {
       pageIndex = 1;
     }
     TravelDao.fetch(widget.travelUrl ?? TRAVEL_URL, widget.groupChannelCode,

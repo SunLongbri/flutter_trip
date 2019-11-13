@@ -55,7 +55,7 @@ public class AsrPlugin implements MethodChannel.MethodCallHandler {
     private void start(MethodCall call, ResultStateful result) {
         if (activity == null) {
             Log.e(TAG, "Ignored start, current activity is null.");
-            result.error("Ignored start, current activity is null.", null, null);
+//            result.error("Ignored start, current activity is null.", null, null);
             return;
         }
         if (getAsrManager() != null) {

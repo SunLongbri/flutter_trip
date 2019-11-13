@@ -85,6 +85,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../build/app/generated/res/rs/androidTest/debug" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../build/app/generated/res/resValues/androidTest/debug" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../build/app/generated/source/apt/test/debug" isTestSource="true" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../build/app/.DS_Store" />
       <excludeFolder url="file://$MODULE_DIR$/../../build/app/generated/not_namespaced_r_class_sources" />
       <excludeFolder url="file://$MODULE_DIR$/../../build/app/generated/source/r" />
       <excludeFolder url="file://$MODULE_DIR$/../../build/app/intermediates/annotation_processor_list" />
@@ -104,6 +105,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../build/app/intermediates/merged_manifests" />
       <excludeFolder url="file://$MODULE_DIR$/../../build/app/intermediates/prebuild" />
       <excludeFolder url="file://$MODULE_DIR$/../../build/app/intermediates/processed_res" />
+      <excludeFolder url="file://$MODULE_DIR$/../../build/app/intermediates/proguard-rules" />
       <excludeFolder url="file://$MODULE_DIR$/../../build/app/intermediates/res" />
       <excludeFolder url="file://$MODULE_DIR$/../../build/app/intermediates/rs" />
       <excludeFolder url="file://$MODULE_DIR$/../../build/app/intermediates/shader_assets" />

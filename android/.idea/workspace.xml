@@ -7,577 +7,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f7e247-1fac-4754-be75-b8ef74f3dc20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/flutter_trip.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/flutter_trip.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/key.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/splash_screen.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/splash_screen.imageset/splash_screen.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/util/navigator_util.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_morimatsu_mac_2015_Development_flutter_trip_android_asr_plugin_libs_bdasr_V3_20180801_d6f298a_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_morimatsu_mac_2015_Development_flutter_trip_android_asr_plugin_libs_bdasr_V3_20190515_c9eed5d_jar_unspecified_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/asr_plugin/asr_plugin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/asr_plugin/asr_plugin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asr_plugin/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/asr_plugin/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asr_plugin/src/main/jniLibs/armeabi-v7a/libBaiduSpeechSDK.so" beforeDir="false" afterPath="$PROJECT_DIR$/asr_plugin/src/main/jniLibs/armeabi-v7a/libBaiduSpeechSDK.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asr_plugin/src/main/jniLibs/armeabi-v7a/libvad.dnn.so" beforeDir="false" afterPath="$PROJECT_DIR$/asr_plugin/src/main/jniLibs/armeabi-v7a/libvad.dnn.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asr_plugin/src/main/jniLibs/x86_64/libBaiduSpeechSDK.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asr_plugin/src/main/jniLibs/x86_64/libvad.dnn.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/../build/app.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon20x20@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon20x20~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon29x29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon29x29@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon29x29~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon40x40@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon40x40~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon76x76@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon76x76~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/AppIcon83.5x83.5@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Assets.car" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/animation@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/animation@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/application@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/application@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrclosed@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrclosed_highlight@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrerror@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrerror@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrnoconnection@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrnoconnection@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrretry@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrretry_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/calendar@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/calendar@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/dividing_line@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/dividing_line@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/fiction@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/fiction@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/film@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/film@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/game@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/game@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/health@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/health@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/help@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/help@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/life_service@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/life_service@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/mother_and_baby@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/mother_and_baby@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/music@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/music@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/praxis@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/praxis@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/stock@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/stock@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/tv_drama@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/tv_drama@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/whether@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/whether@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Tone/record_cancel.caf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Tone/record_end.caf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Tone/record_fail.caf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Tone/record_start.caf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/BDSClientResources/Tone/record_success.caf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Base.lproj/Main.storyboardc/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/App" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_channelgroup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_channelgs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_channelplane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_channeltrain.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_cruise.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_district.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_food.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_hotel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_huodong.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_shop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_sight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_ticket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_travelgroup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/Flutter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/icudtl.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/PkgInfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/Runner" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/_CodeSignature/CodeResources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/bds_easr_basic_model.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/bds_easr_dnn_wakeup_model.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/bds_easr_gramm.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/bds_easr_input_model.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/bds_easr_mfe_cmvn.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/bds_easr_mfe_dnn.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/bds_easr_wakeup_words.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/bds_license.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/Runner.app/embedded.mobileprovision" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/flutter_webview_plugin/libflutter_webview_plugin.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Debug-iphoneos/libPods-Runner.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/Runner.build/Release-iphoneos/Runner.build/dgph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon20x20@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon20x20~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon29x29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon29x29@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon29x29~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon40x40@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon40x40~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon76x76@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon76x76~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/AppIcon83.5x83.5@2x~ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Assets.car" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkBlue.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkGreen.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkOrange.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/darkRed.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/animation@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/animation@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/application@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/application@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrclosed@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrclosed_highlight@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrerror@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrerror@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrnoconnection@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrnoconnection@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrretry@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrretry_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/calendar@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/calendar@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/dividing_line@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/dividing_line@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/fiction@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/fiction@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/film@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/film@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/game@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/game@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/health@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/health@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/help@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/help@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/life_service@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/life_service@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/mother_and_baby@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/mother_and_baby@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/music@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/music@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/praxis@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/praxis@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/stock@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/stock@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/tv_drama@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/tv_drama@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/whether@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultFullScreenTheme.bundle/whether@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/defaultTheme.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightBlue.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightGreen.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightOrange.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrclosed@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrclosed_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrdialoganmition_mask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrdialogbg@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrhelp@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrhelp_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrleftbutton@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrleftbutton_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrrightbtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrrightbtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrtextmask@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrwholebtb@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrwholebtb_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrwholebtn@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/bdvrwholebtn_highlight@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Theme/lightRed.bundle/themeDesc.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Tone/record_cancel.caf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Tone/record_end.caf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Tone/record_fail.caf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Tone/record_start.caf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/BDSClientResources/Tone/record_success.caf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Base.lproj/Main.storyboardc/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/App" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_channelgroup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_channelgs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_channelplane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_channeltrain.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_cruise.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_district.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_food.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_hotel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_huodong.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_shop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_sight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_ticket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/images/type_travelgroup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/Flutter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/icudtl.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/PkgInfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/Runner" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/_CodeSignature/CodeResources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/bds_easr_basic_model.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/bds_easr_dnn_wakeup_model.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/bds_easr_gramm.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/bds_easr_input_model.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/bds_easr_mfe_cmvn.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/bds_easr_mfe_dnn.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/bds_easr_wakeup_words.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/bds_license.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/iphoneos/Runner.app/embedded.mobileprovision" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/ios/pod_inputs.fingerprint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/snapshot_blob.bin.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/snapshot_blob.bin.d.fingerprint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Flutter/App.framework/flutter_assets/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Flutter/App.framework/flutter_assets/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Flutter/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Flutter/App.framework/App" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Flutter/Generated.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/xcuserdata/morimatsu_mac_2015.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/xcuserdata/morimatsu_mac_2015.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Flutter/Flutter.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Flutter/Flutter.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/flutter_webview_plugin/flutter_webview_plugin.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/flutter_webview_plugin/flutter_webview_plugin.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner.xcworkspace/xcuserdata/morimatsu_mac_2015.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner.xcworkspace/xcuserdata/morimatsu_mac_2015.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/pages/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/pages/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/pages/search_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/pages/search_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/pages/travel_tab_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/pages/travel_tab_page.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -600,46 +56,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/heaven/flutter_trip/MainActivity.java">
+        <entry file="file://$PROJECT_DIR$/key.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="52" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asr_plugin/src/main/java/com/sensong/asr_plugin/RecogEventAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="89" column="34" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asr_plugin/src/main/java/com/sensong/asr_plugin/AsrManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asr_plugin/src/main/java/com/sensong/asr_plugin/AsrPlugin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="19" column="65" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asr_plugin/src/main/java/com/sensong/asr_plugin/ResultStateful.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="45">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -647,15 +67,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="8" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="49" />
+            <state relative-caret-position="8">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asr_plugin/build.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -668,6 +92,11 @@
       </list>
     </option>
   </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/flutter_trip_key_store" />
+    <option name="KEY_ALIAS" value="flutter_trip_key_store" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -679,11 +108,14 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/asr_plugin/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/key.properties" />
+        <option value="$PROJECT_DIR$/app/proguard-rules.pro" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="158" />
     <option name="y" value="23" />
     <option name="width" value="1404" />
     <option name="height" value="877" />
@@ -692,136 +124,33 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asr_plugin" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="app" type="47feb1d3:ProjectViewModuleNode" />
             </path>
             <path>
               <item name="android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asr_plugin" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="asr_plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asr_plugin" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="asr_plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asr_plugin" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="asr_plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asr_plugin" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="asr_plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asr_plugin" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="asr_plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asr_plugin" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="asr_plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="asr_plugin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asr_plugin" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="asr_plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="jniLibs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asr_plugin" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="asr_plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="jniLibs" type="462c0819:PsiDirectoryNode" />
-              <item name="arm64-v8a" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asr_plugin" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="asr_plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="jniLibs" type="462c0819:PsiDirectoryNode" />
-              <item name="x86" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="flutter_trip" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="asr_plugin" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="asr_plugin" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="asr_plugin" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="asr_plugin" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="asr_plugin" type="feadf853:AndroidModuleNode" />
-              <item name="jniLibs" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -930,7 +259,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1404" height="877" extended-state="0" />
+    <frame x="158" y="23" width="1404" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
@@ -947,7 +276,7 @@
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.2611465" />
+      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.41910827" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
@@ -1003,13 +332,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asr_plugin/src/main/java/com/sensong/asr_plugin/ResultStateful.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/asr_plugin/src/main/java/com/sensong/asr_plugin/RecogEventAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -1019,13 +341,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/asr_plugin/src/main/java/com/sensong/asr_plugin/AsrManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
+        <state relative-caret-position="15">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asr_plugin/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/asr_plugin/src/main/java/com/sensong/asr_plugin/AsrPlugin.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1034,10 +353,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/asr_plugin/src/main/java/com/sensong/asr_plugin/ResultStateful.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asr_plugin/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/key.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="8" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="49" />
+        <state relative-caret-position="8">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
